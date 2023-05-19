@@ -58,6 +58,11 @@ The Social Network provides the following API endpoints:
 
 For detailed information about the request and response structures of these endpoints, refer to the API documentation.
 
+## Project links
+Github repository link : https://github.com/kylecoding1/computerscience
+
+Deployed Application link: https://kylecoding1.github.io/computerscience/
+
 ## Contributing
 We welcome contributions to the Professional Social Network project. If you would like to contribute, please follow these steps:
 1. Fork the repository.
